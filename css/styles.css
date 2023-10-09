@@ -308,17 +308,18 @@ address{
  margin-bottom: 16px;
 display: inline-block;
 }
-.socialmedia{
-    background-color: #4d5ae5;
-    border-radius: 50%;
-    width: 40px;
-    height: 40px;
-    list-style: none;
-
-
-
-    
-    
-    
-    
+.square{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #F4F4FD;
+    border-radius: 4px;
+    margin-bottom: 8px;
 }
+
+
+
+
+    
+    
