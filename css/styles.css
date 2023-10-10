@@ -403,4 +403,34 @@ display: inline-block;
 .footericons{
     font-weight: 500;
     font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-bottom: 16px; 
+}
+.socialmediafooter{
+    display: flex;
+    gap:16px;
+    list-style: none;
+}
+.socialiconsfooter{
+    width: 40px;
+    height: 40px;
+}
+.footermediaicons{
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.footermediaicons:hover,
+.footermediaicons:focus{
+    background-color: #31d0aa;
+
+}
+.socialfooter{
+    fill:#F4F4FD;
 }
