@@ -28,9 +28,9 @@ img{
 }
 .link{
     text-decoration: none;
-   
-    
 }
+
+
 
 span{
     color:#2e2f42;
@@ -191,13 +191,15 @@ address{
     padding: 12px 24px;
     border: 1px solid #e7e9fc;
     border-radius: 4px;
+    
 
 }
 .filter-button:hover,
 .filter-button:focus{
- color: #FFFFFF;
- background-color: #404BBF;
- border: 1px solid transparent;
+    color: #FFFFFF;
+    background-color: #404BBF;
+    border: 1px solid transparent;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1),0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 .bankingapp{
     font-weight: 500;
@@ -235,8 +237,8 @@ address{
 .container{ 
     
     width: 1158px;
-        margin: 0 auto;
-        padding: 0 15px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 
 .nav{
@@ -392,4 +394,15 @@ display: inline-block;
 }
 .customersnames{
     fill: currentColor;
+}
+.mediaicons{
+    display:flex;
+    align-items: baseline;
+}
+.mediaicons-section{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #ffffff;
 }
