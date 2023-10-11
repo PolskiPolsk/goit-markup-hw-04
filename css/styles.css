@@ -403,6 +403,8 @@ display: inline-block;
 }
 .logoandsection{
     margin-right: 120px;
+    padding: 0; 
+    
     
 }
 .footericons{
