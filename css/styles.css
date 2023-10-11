@@ -312,6 +312,7 @@ address{
 }
 .shadow-effect-app{
     display:block;
+    text-decoration: none;
     
 }
 .shadow-effect-app:hover,
