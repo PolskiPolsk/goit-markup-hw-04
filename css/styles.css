@@ -398,7 +398,12 @@ display: inline-block;
 
 .containerfooter{
     display: flex;
-    align-items: baseline,
+    align-items: baseline;
+   
+}
+.logoandsection{
+    margin-right: 120px;
+    
 }
 .footericons{
     font-weight: 500;
