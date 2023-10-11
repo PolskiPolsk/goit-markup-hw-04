@@ -395,10 +395,10 @@ display: inline-block;
 .customersnames{
     fill: currentColor;
 }
-.footercontainer{
+
+.containerfooter{
     display: flex;
-    align-items: baseline;
-    margin-right: 120px;
+    align-items: baseline,
 }
 .footericons{
     font-weight: 500;
